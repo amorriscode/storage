@@ -35,7 +35,6 @@ Visit: [https://docs.plasmo.com/framework/storage](https://docs.plasmo.com/frame
 ## Usage Examples
 
 - [MICE](https://github.com/PlasmoHQ/mice)
-- [World Edit](https://github.com/PlasmoHQ/world-edit)
 - [with-storage](https://github.com/PlasmoHQ/examples/tree/main/with-storage)
 - [with-redux](https://github.com/PlasmoHQ/examples/tree/main/with-redux)
 
